@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+    background-color:rgb(241, 226, 232);
+}
+body {
+    width: 500px;
+    margin: auto;
+}
+
+.title {
+    margin: 30px;
+    text-align: center;
+    color: rgb(36, 36, 36);
+}
+
+.recipe-list {
+    list-style-type: none;
+}
+
+a, 
+a:visited {
+    color: black
+}
+
+a:hover {
+    color: rgb(113, 12, 113)
+}
+
+
+
